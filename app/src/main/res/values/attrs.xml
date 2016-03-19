@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ErrorBehavior">
+        <attr name="error_id" format="integer" localization="suggested"/>
+    </declare-styleable>
+</resources>
